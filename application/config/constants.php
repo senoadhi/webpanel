@@ -36,7 +36,7 @@ define('FOPEN_READ_WRITE_CREATE',				'a+b');
 define('FOPEN_WRITE_CREATE_STRICT',				'xb');
 define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 
-define('CDN_URL', 								'http://panel.seno.dev/themes/');
+define('CDN_URL', 								'http://mobilpapa.dev/themes/');
 define('GLOBAL_TEMPLATE',						'../../'.APPPATH.'views/global');
 
 /* End of file constants.php */
